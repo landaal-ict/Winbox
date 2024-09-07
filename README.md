@@ -21,16 +21,16 @@ Download the .deb Package: Visit the releases page and download the latest versi
 
 Install the Package: Run the following command in your terminal:
 
-'''
+```
 sudo dpkg -i winbox_<version>.deb
-'''
+```
 Install Missing Dependencies: If any dependencies are missing, 
 
 run:
 
-'''
+```
 sudo apt --fix-broken install
-''' 
+```
 
 # Building from Source
 If you prefer to build the package from source:
