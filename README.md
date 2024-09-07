@@ -22,7 +22,7 @@ Download the .deb Package: Visit the releases page and download the latest versi
 Install the Package: Run the following command in your terminal:
 
 ```
-sudo dpkg -i winbox_<version>.deb
+sudo dpkg -i winbox.deb
 ```
 Install Missing Dependencies: If any dependencies are missing, 
 
@@ -37,21 +37,21 @@ If you prefer to build the package from source:
 
 Clone this repository:
 
-bash
-Code kopiëren
+```
 git clone https://github.com/landaal-ict/Winbox4
 cd winbox
+```
 Build the .deb package:
 
-bash
-Code kopiëren
+```
 dpkg-deb --build winbox
+````
 Install the package:
 
-bash
-Code kopiëren
-sudo dpkg -i winbox.deb
 
+```
+sudo dpkg -i winbox.deb
+````
 # Usage
 After installation, you can launch WinBox from your system's application launcher. Search for "WinBox" in your desktop environment.
 
