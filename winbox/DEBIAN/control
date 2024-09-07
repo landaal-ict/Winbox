@@ -1,0 +1,8 @@
+Package: winbox
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.15)
+Maintainer: Wesley <wesley@familielandaal.nl>
+Description: WinBox for Linux This package installs WinBox on Linux and adds it to the application launcher.

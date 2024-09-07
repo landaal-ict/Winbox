@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=WinBox
+Exec=/usr/local/bin/WinBox
+Icon=/usr/share/pixmaps/winbox.png
+Type=Application
+Categories=Network;
