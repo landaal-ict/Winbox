@@ -73,8 +73,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Credits
 Maintainer: Wesley  
 Original WinBox: MikroTik
-
-# Notes
-Please update the image link in the README.md to the actual path where you host the WinBox logo on GitHub.
-You can modify the repository URL, your GitHub profile link, and other specifics to personalize the README to your project.
-Let me know if you need more adjustments!
