@@ -39,7 +39,7 @@ If you prefer to build the package from source:
 Clone this repository:
 
 ```
-git clone https://github.com/landaal-ict/Winbox4
+git clone https://github.com/landaal-ict/Winbox
 cd winbox
 ```
 Build the .deb package:
