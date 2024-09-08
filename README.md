@@ -4,7 +4,8 @@ WinBox is a GUI tool used to administer MikroTik RouterOS routers. This project 
 
 
 # About
-WinBox for Linux brings the simplicity and power of MikroTik's WinBox utility to Linux users. It allows for easy access and management of MikroTik routers with a familiar interface.
+WinBox for Linux brings the simplicity and power of MikroTik's WinBox utility to Linux users. It allows for easy access and management of MikroTik routers with a familiar interface.  
+Winbox version 4 beta
 
 # This project provides:
 
