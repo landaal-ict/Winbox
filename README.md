@@ -60,7 +60,8 @@ After installation, you can launch WinBox from your system's application launche
 You can now use the GUI to manage your MikroTik routers as you would on a Windows machine.
 
 # Updates
-- Winbox4 Beta6 (latest)
+- Winbox4 Beta8 (latest)
+- Winbox4 Beta6
 - Winbox4 Beta4
 
 # Contributing
